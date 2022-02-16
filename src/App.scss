@@ -1,5 +1,13 @@
+@import "~bootstrap/scss/bootstrap";
+
 .App {
   text-align: center;
+  h2{
+    margin: 30px;
+  }
+  label{
+    text-align: right;
+  }
 }
 
 .App-logo {
